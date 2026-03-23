@@ -1,2 +1,2 @@
 # STADETR
-The repository of STADETR
+The repository of STADETR (coming soon)
